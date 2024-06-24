@@ -24,7 +24,7 @@ This tech stack enables us to simulate diverse customer service scenarios, helpi
 
 To give you a comprehensive view of our application, we've created an in-depth video walkthrough. This demonstration showcases the platform's key features, user interface, and practical applications in action. You'll see how customer service representatives can engage with our AI-powered simulations, practice handling challenging scenarios, and receive real-time feedback.
 
-View our demonstration video [here]().
+View our demonstration video [here](https://raw.githubusercontent.com/haile7333/customer-interaction-tool/main/presentation.mp4).
 
 ## Future Plans
 
