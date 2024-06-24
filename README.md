@@ -6,6 +6,8 @@ Our Customer Interaction Practice Tool enhances support representatives' skills 
 
 The system integrates speech-to-text and text-to-speech capabilities for a more immersive experience. We're committed to refining the simulator further, aiming to make it a valuable tool for businesses globally.
 
+![alt text](scheme.png)
+
 ## Technologies
 
 Our Customer Interaction Practice Tool combines modern technologies to create an immersive training platform:
